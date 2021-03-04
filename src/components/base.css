@@ -1,0 +1,10 @@
+.buttons:focus{
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.5);
+}
+
+.button{
+    background-color: #0063cc;
+    border-color: #0063cc;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
